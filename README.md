@@ -9,7 +9,7 @@ This repository showcases the **fine-tuning**, **evaluation**, **optimization**,
 - ✅ **LLM Fine-Tuning:**  
   - Fine-tuned **Gemma-7B** using **QLoRA** on reasoning datasets (e.g., **DeepSeek-R1**).  
   - Efficient 4-bit quantization applied for memory optimization.
-  - Finetuned model: JC-24/gemma-7b-mediqa-final
+  - Finetuned model: [JC-24/gemma-7b-mediqa-final](https://huggingface.co/JC-24/gemma-7b-mediqa-final/tree/main)
   - Weights & Biases Run:  
   [View Fine-Tuning on W&B ](https://wandb.ai/janvi24/Fine-tune-gemma-7b%20on%20Medical%20COT%20Dataset?nw=nwuserjanvi24)
 
